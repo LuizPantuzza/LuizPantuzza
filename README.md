@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o SEU_NOME 👋</h1>
+<h1 align="center">Olá, eu sou o Luiz Eduardo 👋</h1>
 
 <p align="center">
   Desenvolvedor Back End | Node.js • JavaScript • APIs REST
@@ -18,10 +18,8 @@
 ## 🚀 Sobre mim
 
 - 💻 Desenvolvedor back end com foco em **Node.js** e **JavaScript**
-- 🔭 Atualmente trabalhando em: SEU_PROJETO_OU_EMPRESA
 - 🌱 Estudando: TypeScript, Docker, arquitetura de microsserviços
-- 📫 Fale comigo: SEU_EMAIL
-- ⚡ Curiosidade: SEU_FATO_DIVERTIDO
+- 📫 Fale comigo: luizerpantuzza@gmail.com
 
 ## 🛠️ Tecnologias
 
